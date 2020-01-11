@@ -5,11 +5,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
-/**
- * Author: Maximus
- * Date: 2016/01/06
- * Time: 18:20
- */
+
 
 public class Query {
 

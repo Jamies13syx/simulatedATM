@@ -9,11 +9,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
-/**
- * Author: Maximus
- * Date: 2016/01/06
- * Time: 8:08
- */
+
 
 public class Delete {
 

@@ -5,12 +5,6 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
-/**
- * Author: Maximus
- * Date: 2016/01/06
- * Time: 17:27
- */
-
 public class ChangePassword {  /* 修改密码 */
 
 	public static boolean doChange(String account, String old_password, String new_password) {

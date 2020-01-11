@@ -10,13 +10,9 @@ import app.atm.db.Deal;
 import app.atm.db.Login;
 import app.atm.loginHandle.LoginHandle;
 
-/**
- * @author zqa
- */
+
 public class Main_GUI extends JFrame {
-	/**
-	 *
-	 */
+
 	private static final long serialVersionUID = -7268017520083946414L;
 
 	private final String account;// 账户，用于窗口间传递、与数据库的交互

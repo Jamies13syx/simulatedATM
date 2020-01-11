@@ -2,11 +2,7 @@ package app.atm.db;
 
 import java.sql.*;
 
-/**
- * Author: Maximus
- * Date: 2015/09/11
- * Time: 18:46
- */
+
 
 /**
  * 数据库配置信息

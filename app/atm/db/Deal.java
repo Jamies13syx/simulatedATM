@@ -6,11 +6,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
-/**
- * Author: Maximus
- * Date: 2016/01/06
- * Time: 16:55
- */
+
 
 public class Deal {  /* 交易 */
 
